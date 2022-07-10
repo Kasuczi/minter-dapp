@@ -26,7 +26,6 @@
 body {
   background-color: var(--bg-color);
   display: flex;
-  overflow: scroll;
   flex-flow: column;
   height: 100%;
   color: var(--font-color);
